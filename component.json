@@ -1,0 +1,20 @@
+{
+    "name": "Gravatar",
+    "id": "gravatar",
+    "description": "Gravatar is a component for Gravatar is an image that follows you from site to site appearing beside your name when you do things like comment or post on a blog. Avatars help identify your posts on blogs and web forums.",
+    "version": "1.0.0",
+    "status": true,
+    "author": {
+        "name": "Malik Umer Farooq",
+        "email": "lablnet01@gmail.com",
+        "homepage": "https:\/\/zestframework.xyz"
+    },
+    "requires": {
+        "version": "3.0.0",
+        "comparator": ">="
+    },
+    "license": {
+        "license": "MIT",
+        "url": "https:\/\/opensource.org\/licenses\/MIT"
+    }
+}
